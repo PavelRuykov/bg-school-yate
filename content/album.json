@@ -1,0 +1,27 @@
+[
+  {
+    "image": "img/p1.webp",
+    "caption_bg": "Посрещане с погача",
+    "caption_en": "Welcome with bread and salt"
+  },
+  {
+    "image": "img/p3.webp",
+    "caption_bg": "Деца с българското знаме",
+    "caption_en": "Children with the Bulgarian flag"
+  },
+  {
+    "image": "img/p2.webp",
+    "caption_bg": "Тържествено откриване",
+    "caption_en": "Grand opening"
+  },
+  {
+    "image": "img/p4.webp",
+    "caption_bg": "Подредени учебници и знаменца",
+    "caption_en": "Textbooks and little flags"
+  },
+  {
+    "image": "img/p5.webp",
+    "caption_bg": "Прерязване на лентата",
+    "caption_en": "Cutting the ribbon"
+  }
+]

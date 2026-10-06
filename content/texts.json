@@ -1,0 +1,626 @@
+[
+  {
+    "key": "t001",
+    "place": "Корица (начало) · Текст 1",
+    "bg": "Българско неделно училище",
+    "en": "Bulgarian Sunday School"
+  },
+  {
+    "key": "t002",
+    "place": "Корица (начало) · Текст 2",
+    "bg": "„Райна Княгиня“",
+    "en": "“Rayna Knyaginya”"
+  },
+  {
+    "key": "t003",
+    "place": "Корица (начало) · Текст 3",
+    "bg": "Йейт",
+    "en": "Yate"
+  },
+  {
+    "key": "t004",
+    "place": "Корица (начало) · Текст 4",
+    "bg": "Тук езикът звучи, традициите оживяват, а децата растат с обич към България.",
+    "en": "Here the language sings, traditions come alive, and children grow up with love for Bulgaria."
+  },
+  {
+    "key": "t005",
+    "place": "Корица (начало) · Бутон 5",
+    "bg": "Отворете нашата история",
+    "en": "Open our story"
+  },
+  {
+    "key": "t006",
+    "place": "Корица (начало) · Надпис под снимка 6",
+    "bg": "Нашите учителки в деня на откриването",
+    "en": "Our teachers on opening day"
+  },
+  {
+    "key": "t007",
+    "place": "Мото · Текст 1",
+    "bg": "България е там, където сме ние.",
+    "en": "Bulgaria is wherever we are."
+  },
+  {
+    "key": "t008",
+    "place": "Глава I · Мисия · Номер на глава 1",
+    "bg": "Глава I",
+    "en": "Chapter I"
+  },
+  {
+    "key": "t009",
+    "place": "Глава I · Мисия · Заглавие 2",
+    "bg": "Продължение на едно дело",
+    "en": "The continuation of a legacy"
+  },
+  {
+    "key": "t010",
+    "place": "Глава I · Мисия · Текст 3",
+    "bg": "През 1876 г. младата учителка от Панагюрище Райна Попгеоргиева ушива със собствените си ръце знамето на Априлското въстание. Историята я помни като Райна Княгиня — учителката, която превръща иглата и конеца в символ на свободата.",
+    "en": "In 1876, a young teacher from Panagyurishte, Rayna Popgeorgieva, sewed the flag of the April Uprising with her own hands. History remembers her as Rayna Knyaginya — the teacher who turned a needle and thread into a symbol of freedom."
+  },
+  {
+    "key": "t011",
+    "place": "Глава I · Мисия · Текст 4",
+    "bg": "Сто и петдесет години по-късно носим името ѝ в Йейт. Нашата игла е българското слово, а нашата нишка — обичта, която свързва децата, растящи във Великобритания, със земята на техните родители и баби.",
+    "en": "One hundred and fifty years later, we carry her name in Yate. Our needle is the Bulgarian word; our thread is the love that ties children growing up in Britain to the land of their parents and grandparents."
+  },
+  {
+    "key": "t012",
+    "place": "Глава I · Мисия · Текст 5",
+    "bg": "Запознаваме децата с българския език, история, култура и наследство. Работим в тясно сътрудничество с Министерството на образованието и науката на България и следваме неговите програми за българските училища в чужбина.",
+    "en": "We introduce children to the Bulgarian language, history, culture and heritage, working closely with the Ministry of Education and Science of Bulgaria and following its curricula for Bulgarian schools abroad."
+  },
+  {
+    "key": "t013",
+    "place": "Глава I · Мисия · Текст 6",
+    "bg": "За семействата от Йейт, Чипинг Содбъри, Торнбъри, Филтън, Брадли Стоук, Емерсънс Грийн, Фрамптън Котърел, Бат и околностите.",
+    "en": "For families from Yate, Chipping Sodbury, Thornbury, Filton, Bradley Stoke, Emersons Green, Frampton Cotterell, Bath and the surrounding area."
+  },
+  {
+    "key": "t014",
+    "place": "Глава II · Обучение · Номер на глава 1",
+    "bg": "Глава II",
+    "en": "Chapter II"
+  },
+  {
+    "key": "t015",
+    "place": "Глава II · Обучение · Заглавие 2",
+    "bg": "Четири страници от една книга",
+    "en": "Four pages of one book"
+  },
+  {
+    "key": "t016",
+    "place": "Глава II · Обучение · Въвеждащ текст 3",
+    "bg": "Всяка неделя децата учат в две групи: предучилищна група (от 2 до 5 години) и училище – от 1. до 12. клас.",
+    "en": "Every Sunday the children learn in two groups: a preschool group (ages 2 to 5) and school classes from 1st to 12th grade."
+  },
+  {
+    "key": "t017",
+    "place": "Глава II · Обучение · Подзаглавие 4",
+    "bg": "Езикът",
+    "en": "The Language"
+  },
+  {
+    "key": "t018",
+    "place": "Глава II · Обучение · Подзаглавие (курсив) 5",
+    "bg": "Буквите и думите",
+    "en": "Letters and words"
+  },
+  {
+    "key": "t019",
+    "place": "Глава II · Обучение · Текст 6",
+    "bg": "От първата буква на азбуката до свободното четене, писане и говорене — българският става език на сърцето, не само на дома.",
+    "en": "From the first letter of the alphabet to reading, writing and speaking freely — Bulgarian becomes a language of the heart, not only of home."
+  },
+  {
+    "key": "t020",
+    "place": "Глава II · Обучение · Подзаглавие 7",
+    "bg": "Паметта",
+    "en": "The Memory"
+  },
+  {
+    "key": "t021",
+    "place": "Глава II · Обучение · Подзаглавие (курсив) 8",
+    "bg": "Историята и родните места",
+    "en": "History and geography"
+  },
+  {
+    "key": "t022",
+    "place": "Глава II · Обучение · Текст 9",
+    "bg": "Хората и събитията, изградили България, и красотата на нейните планини, реки и градове — разказани като истории, които децата запомнят.",
+    "en": "The people and events that shaped Bulgaria, and the beauty of its mountains, rivers and towns — told as stories children remember."
+  },
+  {
+    "key": "t023",
+    "place": "Глава II · Обучение · Подзаглавие 10",
+    "bg": "Живата традиция",
+    "en": "The Living Tradition"
+  },
+  {
+    "key": "t024",
+    "place": "Глава II · Обучение · Подзаглавие (курсив) 11",
+    "bg": "Празници, песни и обичаи",
+    "en": "Holidays, songs and customs"
+  },
+  {
+    "key": "t025",
+    "place": "Глава II · Обучение · Текст 12",
+    "bg": "Баба Марта, Великден, Коледа, Денят на будителите и 24 май — празнувани заедно, както у дома.",
+    "en": "Baba Marta, Easter, Christmas, the Day of the Enlighteners and 24 May — celebrated together, the way they are celebrated at home."
+  },
+  {
+    "key": "t026",
+    "place": "Глава II · Обучение · Подзаглавие 13",
+    "bg": "Творчеството",
+    "en": "Creativity"
+  },
+  {
+    "key": "t027",
+    "place": "Глава II · Обучение · Подзаглавие (курсив) 14",
+    "bg": "Рисуване, работилници и сцена",
+    "en": "Art, workshops and the stage"
+  },
+  {
+    "key": "t028",
+    "place": "Глава II · Обучение · Текст 15",
+    "bg": "Мартеници, шевици, рисунки, рецитали и представления — децата създават с ръцете си това, което учат с ума си.",
+    "en": "Martenitsi, embroidery, painting, recitals and performances — children create with their hands what they learn with their minds."
+  },
+  {
+    "key": "t029",
+    "place": "Глава II · Обучение · Подзаглавие 16",
+    "bg": "Теми на уроците",
+    "en": "Lesson topics"
+  },
+  {
+    "key": "t030",
+    "place": "Цитат · Текст 1",
+    "bg": "„Да пазим корените, за да расте бъдещето!“",
+    "en": "“Let us keep our roots, so the future may grow!”"
+  },
+  {
+    "key": "t031",
+    "place": "Глава III · История · Номер на глава 1",
+    "bg": "Глава III",
+    "en": "Chapter III"
+  },
+  {
+    "key": "t032",
+    "place": "Глава III · История · Заглавие 2",
+    "bg": "Нашата история започна тук",
+    "en": "Our story began here"
+  },
+  {
+    "key": "t033",
+    "place": "Глава III · История · Въвеждащ текст 3",
+    "bg": "Всяка голяма история има първа страница. Това е нашата — и тя тепърва започва.",
+    "en": "Every great story has a first page. This is ours — and it is only beginning."
+  },
+  {
+    "key": "t034",
+    "place": "Глава III · История · Дата 4",
+    "bg": "20 септември 2026",
+    "en": "20 September 2026"
+  },
+  {
+    "key": "t035",
+    "place": "Глава III · История · Подзаглавие 5",
+    "bg": "Тържествено откриване",
+    "en": "Grand opening"
+  },
+  {
+    "key": "t036",
+    "place": "Глава III · История · Текст 6",
+    "bg": "С погача и сол, лента в националните цветове и много гости училището отвори врати в Йейт.",
+    "en": "With bread and salt, a ribbon in the national colours and many guests, the school opened its doors in Yate."
+  },
+  {
+    "key": "t037",
+    "place": "Глава III · История · Дата 7",
+    "bg": "Септември 2026",
+    "en": "September 2026"
+  },
+  {
+    "key": "t038",
+    "place": "Глава III · История · Подзаглавие 8",
+    "bg": "Първите учители",
+    "en": "The first teachers"
+  },
+  {
+    "key": "t039",
+    "place": "Глава III · История · Текст 9",
+    "bg": "Ана Руйкова, Елена Боева и Станислава Кюмурджиева поеха мисията на училището.",
+    "en": "Ana Ruykova, Elena Boeva and Stanislava Kyumurdzhieva took on the mission of the school."
+  },
+  {
+    "key": "t040",
+    "place": "Глава III · История · Дата 10",
+    "bg": "Септември 2026",
+    "en": "September 2026"
+  },
+  {
+    "key": "t041",
+    "place": "Глава III · История · Подзаглавие 11",
+    "bg": "Първите деца",
+    "en": "The first children"
+  },
+  {
+    "key": "t042",
+    "place": "Глава III · История · Текст 12",
+    "bg": "Първите ученици, първият час, първите букви, изписани на български.",
+    "en": "The first pupils, the first lesson, the first letters written in Bulgarian."
+  },
+  {
+    "key": "t043",
+    "place": "Глава III · История · Дата 13",
+    "bg": "1 ноември · предстои",
+    "en": "1 November · coming soon"
+  },
+  {
+    "key": "t044",
+    "place": "Глава III · История · Подзаглавие 14",
+    "bg": "Първият празник",
+    "en": "Our first holiday"
+  },
+  {
+    "key": "t045",
+    "place": "Глава III · История · Текст 15",
+    "bg": "Денят на народните будители — подходящ първи празник за училище, носещо името на учителка.",
+    "en": "The Day of the Bulgarian Enlighteners — a fitting first holiday for a school named after a teacher."
+  },
+  {
+    "key": "t046",
+    "place": "Глава III · История · Дата 16",
+    "bg": "Декември · предстои",
+    "en": "December · coming soon"
+  },
+  {
+    "key": "t047",
+    "place": "Глава III · История · Подзаглавие 17",
+    "bg": "Първата Коледа",
+    "en": "Our first Christmas"
+  },
+  {
+    "key": "t048",
+    "place": "Глава III · История · Текст 18",
+    "bg": "Коледари, коледно представление и празник за цялото семейство.",
+    "en": "Carols, a Christmas performance and a celebration for the whole family."
+  },
+  {
+    "key": "t049",
+    "place": "Глава III · История · Дата 19",
+    "bg": "Бъдещето",
+    "en": "The future"
+  },
+  {
+    "key": "t050",
+    "place": "Глава III · История · Подзаглавие 20",
+    "bg": "Какво мечтаем",
+    "en": "What we dream of"
+  },
+  {
+    "key": "t051",
+    "place": "Глава III · История · Текст 21",
+    "bg": "Библиотека и неделно читалище, училищно знаме, празнични униформи и български център за цялото семейство.",
+    "en": "A library and Sunday reading room, a school flag, ceremonial uniforms and a Bulgarian centre for the whole family."
+  },
+  {
+    "key": "t052",
+    "place": "Глава III · История · Надпис под снимка 22",
+    "bg": "С погача и сол",
+    "en": "Bread and salt"
+  },
+  {
+    "key": "t053",
+    "place": "Глава III · История · Надпис под снимка 23",
+    "bg": "Прерязване на лентата",
+    "en": "Cutting the ribbon"
+  },
+  {
+    "key": "t054",
+    "place": "Глава IV · Учители · Номер на глава 1",
+    "bg": "Глава IV",
+    "en": "Chapter IV"
+  },
+  {
+    "key": "t055",
+    "place": "Глава IV · Учители · Заглавие 2",
+    "bg": "Пазителките на словото",
+    "en": "The keepers of the word"
+  },
+  {
+    "key": "t056",
+    "place": "Глава IV · Учители · Въвеждащ текст 3",
+    "bg": "Като Райна Княгиня, нашите учителки вярват, че просвещението е най-красивата форма на обич към родината.",
+    "en": "Like Rayna Knyaginya, our teachers believe that education is the most beautiful form of love for one's homeland."
+  },
+  {
+    "key": "t057",
+    "place": "Глава IV · Учители · Подзаглавие 4",
+    "bg": "Ана Руйкова",
+    "en": "Ana Ruykova"
+  },
+  {
+    "key": "t058",
+    "place": "Глава IV · Учители · Текст 5",
+    "bg": "Учител",
+    "en": "Teacher"
+  },
+  {
+    "key": "t059",
+    "place": "Глава IV · Учители · Подзаглавие 6",
+    "bg": "Елена Боева",
+    "en": "Elena Boeva"
+  },
+  {
+    "key": "t060",
+    "place": "Глава IV · Учители · Текст 7",
+    "bg": "Училищен ръководител",
+    "en": "Head of School"
+  },
+  {
+    "key": "t061",
+    "place": "Глава IV · Учители · Подзаглавие 8",
+    "bg": "Станислава Кюмурджиева",
+    "en": "Stanislava Kyumurdzhieva"
+  },
+  {
+    "key": "t062",
+    "place": "Глава IV · Учители · Текст 9",
+    "bg": "Учител",
+    "en": "Teacher"
+  },
+  {
+    "key": "t063",
+    "place": "Глава V · Общност · Номер на глава 1",
+    "bg": "Глава V",
+    "en": "Chapter V"
+  },
+  {
+    "key": "t064",
+    "place": "Глава V · Общност · Заглавие 2",
+    "bg": "Повече от училище — дом",
+    "en": "More than a school — a home"
+  },
+  {
+    "key": "t065",
+    "place": "Глава V · Общност · Въвеждащ текст 3",
+    "bg": "Петте часа в неделя са само началото. Изграждаме български център за цялото семейство.",
+    "en": "Five hours on a Sunday are only the beginning. We are building a Bulgarian centre for the whole family."
+  },
+  {
+    "key": "t066",
+    "place": "Глава V · Общност · Подзаглавие 4",
+    "bg": "Родителски клуб",
+    "en": "Parents' club"
+  },
+  {
+    "key": "t067",
+    "place": "Глава V · Общност · Текст 5",
+    "bg": "Място за срещи, подкрепа и общи идеи за училището.",
+    "en": "A place to meet, support each other and help the school grow."
+  },
+  {
+    "key": "t068",
+    "place": "Глава V · Общност · Подзаглавие 6",
+    "bg": "Библиотека и читалище",
+    "en": "Library & reading room"
+  },
+  {
+    "key": "t069",
+    "place": "Глава V · Общност · Текст 7",
+    "bg": "Български книги за деца и родители и неделно читалище.",
+    "en": "Bulgarian books for children and parents, and a Sunday reading room."
+  },
+  {
+    "key": "t070",
+    "place": "Глава V · Общност · Подзаглавие 8",
+    "bg": "Български празници",
+    "en": "Bulgarian holidays"
+  },
+  {
+    "key": "t071",
+    "place": "Глава V · Общност · Текст 9",
+    "bg": "Празници, които събират семействата от целия район.",
+    "en": "Celebrations that bring together families from the whole area."
+  },
+  {
+    "key": "t072",
+    "place": "Глава V · Общност · Подзаглавие 10",
+    "bg": "Пикници и срещи",
+    "en": "Picnics & gatherings"
+  },
+  {
+    "key": "t073",
+    "place": "Глава V · Общност · Текст 11",
+    "bg": "Общностни дни на открито с българска храна и игри.",
+    "en": "Community days outdoors, with Bulgarian food and games."
+  },
+  {
+    "key": "t074",
+    "place": "Глава V · Общност · Подзаглавие 12",
+    "bg": "Работилници",
+    "en": "Workshops"
+  },
+  {
+    "key": "t075",
+    "place": "Глава V · Общност · Текст 13",
+    "bg": "Мартеници, великденски яйца, шевици и занаяти за малки и големи.",
+    "en": "Martenitsi, Easter eggs, embroidery and crafts for children and parents."
+  },
+  {
+    "key": "t076",
+    "place": "Глава V · Общност · Подзаглавие 14",
+    "bg": "Сценични изяви",
+    "en": "Stage performances"
+  },
+  {
+    "key": "t077",
+    "place": "Глава V · Общност · Текст 15",
+    "bg": "Рецитали, песни и хора, в които всяко дете има своя роля.",
+    "en": "Recitals, songs and dances in which every child has a role."
+  },
+  {
+    "key": "t078",
+    "place": "Глава V · Общност · Подзаглавие 16",
+    "bg": "Английски за родители",
+    "en": "English for parents"
+  },
+  {
+    "key": "t079",
+    "place": "Глава V · Общност · Текст 17",
+    "bg": "Езикови занятия за родителите, докато децата учат.",
+    "en": "Language classes for parents while children are in lessons."
+  },
+  {
+    "key": "t080",
+    "place": "Глава V · Общност · Етикет 18",
+    "bg": "Предстои",
+    "en": "Coming soon"
+  },
+  {
+    "key": "t081",
+    "place": "Глава V · Общност · Подзаглавие 19",
+    "bg": "Гвардейски униформи и знаме",
+    "en": "Guard uniforms & school flag"
+  },
+  {
+    "key": "t082",
+    "place": "Глава V · Общност · Текст 20",
+    "bg": "Празнични униформи и собствено училищно знаме — в духа на нашия патрон.",
+    "en": "Ceremonial uniforms and our own school flag — in the spirit of our patron."
+  },
+  {
+    "key": "t083",
+    "place": "Глава V · Общност · Етикет 21",
+    "bg": "Предстои",
+    "en": "Coming soon"
+  },
+  {
+    "key": "t084",
+    "place": "Глава VI · Албум · Номер на глава 1",
+    "bg": "Глава VI",
+    "en": "Chapter VI"
+  },
+  {
+    "key": "t085",
+    "place": "Глава VI · Албум · Заглавие 2",
+    "bg": "Из нашия албум",
+    "en": "From our album"
+  },
+  {
+    "key": "t086",
+    "place": "Глава VI · Албум · Въвеждащ текст 3",
+    "bg": "Мигове от деня на откриването. Още във Facebook страницата ни.",
+    "en": "Moments from the opening day. More on our Facebook page."
+  },
+  {
+    "key": "t087",
+    "place": "Глава VI · Албум · Бутон 4",
+    "bg": "Последвайте ни във Facebook",
+    "en": "Follow us on Facebook"
+  },
+  {
+    "key": "t088",
+    "place": "Глава VII · Новини и видео · Номер на глава 1",
+    "bg": "Глава VII",
+    "en": "Chapter VII"
+  },
+  {
+    "key": "t089",
+    "place": "Глава VII · Новини и видео · Заглавие 2",
+    "bg": "Вести от училището",
+    "en": "News from the school"
+  },
+  {
+    "key": "t090",
+    "place": "Глава VII · Новини и видео · Въвеждащ текст 3",
+    "bg": "Съобщения, събития и разкази от нашите недели заедно.",
+    "en": "Announcements, events and stories from our Sundays together."
+  },
+  {
+    "key": "t091",
+    "place": "Глава VII · Новини и видео · Бутон 4",
+    "bg": "Покажи още новини",
+    "en": "Show more news"
+  },
+  {
+    "key": "t092",
+    "place": "Глава VII · Новини и видео · Подзаглавие 5",
+    "bg": "Видео",
+    "en": "Videos"
+  },
+  {
+    "key": "t093",
+    "place": "Глава VIII · Записване · Номер на глава 1",
+    "bg": "Глава VIII",
+    "en": "Chapter VIII"
+  },
+  {
+    "key": "t094",
+    "place": "Глава VIII · Записване · Заглавие 2",
+    "bg": "Напишете следващата страница с нас",
+    "en": "Write the next page with us"
+  },
+  {
+    "key": "t095",
+    "place": "Глава VIII · Записване · Въвеждащ текст 3",
+    "bg": "Все още има свободни места за тази учебна година.",
+    "en": "Places are still available for this school year."
+  },
+  {
+    "key": "t096",
+    "place": "Глава VIII · Записване · Етикет 4",
+    "bg": "Кога",
+    "en": "When"
+  },
+  {
+    "key": "t097",
+    "place": "Глава VIII · Записване · Стойност 5",
+    "bg": "Всяка неделя, 10:00 – 15:00",
+    "en": "Every Sunday, 10:00 – 15:00"
+  },
+  {
+    "key": "t098",
+    "place": "Глава VIII · Записване · Етикет 6",
+    "bg": "За кого",
+    "en": "Who"
+  },
+  {
+    "key": "t099",
+    "place": "Глава VIII · Записване · Стойност 7",
+    "bg": "Предучилищна група: 2–5 години\nУчилище: 1. – 12. клас",
+    "en": "Preschool group: ages 2–5\nSchool: 1st to 12th grade"
+  },
+  {
+    "key": "t100",
+    "place": "Глава VIII · Записване · Етикет 8",
+    "bg": "Такса",
+    "en": "Fee"
+  },
+  {
+    "key": "t101",
+    "place": "Глава VIII · Записване · Стойност 9",
+    "bg": "£250 за учебна година",
+    "en": "£250 per school year"
+  },
+  {
+    "key": "t102",
+    "place": "Глава VIII · Записване · Етикет 10",
+    "bg": "Къде",
+    "en": "Where"
+  },
+  {
+    "key": "t103",
+    "place": "Долна част · Текст 1",
+    "bg": "„Да пазим корените, за да расте бъдещето!“",
+    "en": "“Let us keep our roots, so the future may grow!”"
+  },
+  {
+    "key": "t104",
+    "place": "Долна част · Текст 2",
+    "bg": "© 2026 Българско неделно училище „Райна Княгиня“, Йейт · Знание · Език · Традиции",
+    "en": "© 2026 Bulgarian Sunday School “Rayna Knyaginya”, Yate · Knowledge · Language · Traditions"
+  }
+]

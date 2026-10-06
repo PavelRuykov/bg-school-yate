@@ -1,0 +1,20 @@
+[
+  {
+    "show": true,
+    "group": "preschool",
+    "date": "",
+    "title_bg": "Буквите А, Б, В",
+    "title_en": "The letters А, Б, В",
+    "text_bg": "Запознаваме се с първите букви чрез песнички, игри и рисунки.",
+    "text_en": "Meeting the first letters through songs, games and drawing."
+  },
+  {
+    "show": true,
+    "group": "school",
+    "date": "",
+    "title_bg": "Денят на народните будители",
+    "title_en": "Day of the Bulgarian Enlighteners",
+    "text_bg": "Кои са будителите и защо ги почитаме на 1 ноември.",
+    "text_en": "Who the Enlighteners were and why we honour them on 1 November."
+  }
+]
